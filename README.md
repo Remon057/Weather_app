@@ -6,3 +6,9 @@
  
 ・node:v16.18.0
 ・npm:8.19.2
+
+### netlifyによる公開
+ 
+netlifyによって作成したアプリケーションをwebに公開した。以下がそのリンクである。
+　
+https://remon-react-weather-app.netlify.app
